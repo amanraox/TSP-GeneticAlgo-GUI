@@ -7,4 +7,4 @@ first it solves by bruteforce
 
 secondly we are useing Genetic Algo
 
-`$python3 tspga.py `
+` python3 tspga.py `
