@@ -32,3 +32,6 @@ To run the genetic algorithm with default settings, simply execute the script:
 secondly we are useing Genetic Algo
 
 ` python3 tspga.py `
+
+
+also checkout prev version.
